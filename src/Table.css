@@ -1,0 +1,20 @@
+Table {
+    text-align: center;
+  }
+  h2 {
+    color: darkcyan;
+    margin: inherit;
+  }
+  
+  .side-head {
+    color: darkgreen;
+  }
+  
+  .tab {
+    display: block;
+    color: cornflowerblue;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
