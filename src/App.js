@@ -21,7 +21,7 @@ class App extends React.Component{
      }
  }
     
-buyClick=(item,type)=>{
+buyClick=(item)=>{
    // console.log(e);
     //let d=e.nativeEvent.path[2].innerText;
     //console.log(d);
